@@ -1,0 +1,10 @@
+# ninja log v5
+13	6040	7557095088856498	googletest/googlemock/CMakeFiles/gmock.dir/__/googletest/src/gtest-all.cc.obj	4ab56d71e3ff0a63
+2	1107	7556976661078404	Receiver/CMakeFiles/Receiver.dir/Receiver.cpp.obj	e1430d9aa884ea64
+1663	2208	7556975040627359	Sender/Sender.exe	41f30e036f71d0f7
+1108	1561	7556976663887250	Receiver/Receiver.exe	3d0808d3cbe851e7
+20	5774	7557095086210209	googletest/googlemock/CMakeFiles/gmock_main.dir/__/googletest/src/gtest-all.cc.obj	feb08901fcf0ba21
+21	1663	7556975035381634	Sender/CMakeFiles/Sender.dir/Sender.cpp.obj	a0e2e82c9edc3460
+24	4510	7557095073517942	googletest/googlemock/CMakeFiles/gmock_main.dir/src/gmock-all.cc.obj	bd4655f0d2241508
+17	4518	7557095073641684	googletest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj	e3e150fdbcc27b80
+40	457	7557095365920513	build.ninja	c301e8bc00dc8d3

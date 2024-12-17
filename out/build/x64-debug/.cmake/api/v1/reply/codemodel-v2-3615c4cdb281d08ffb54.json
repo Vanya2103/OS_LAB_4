@@ -1,0 +1,123 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "Sender",
+					"jsonFile" : "directory-Sender-Debug-61cd958922b74f244f71.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "Sender",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "Receiver",
+					"jsonFile" : "directory-Receiver-Debug-9a442bef96a34e6fcfca.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "Receiver",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "OSSSSSSSSS4"
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "Sender",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "Receiver",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 2,
+					"id" : "Receiver::@6e07215eccb3600c3357",
+					"jsonFile" : "target-Receiver-Debug-f2dbd4c676d27e456f94.json",
+					"name" : "Receiver",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "Sender::@8aa274d3b88f371fe978",
+					"jsonFile" : "target-Sender-Debug-545b931acab1643904c6.json",
+					"name" : "Sender",
+					"projectIndex" : 1
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/OS/OSSSSSSSSS4/out/build/x64-debug",
+		"source" : "E:/OS/OSSSSSSSSS4"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
